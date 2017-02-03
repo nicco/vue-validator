@@ -1,5 +1,6 @@
 # vue-validator
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9cc3e0a89cf423c87e711bd294a4254)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=nicco/vue-validator&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/vuejs/vue-validator.svg?branch=master)](https://travis-ci.org/vuejs/vue-validator)
 [![Coverage Status](https://img.shields.io/coveralls/vuejs/vue-validator.svg)](https://coveralls.io/r/vuejs/vue-validator)
 [![Sauce Test Status](https://saucelabs.com/buildstatus/vuejs-validator)](https://saucelabs.com/u/vuejs-validator)
